@@ -1,11 +1,14 @@
-# portfolio-generator
+# Portfolio Generator
 
 ## Purpose 
+
+## Installation 
 
 ## Usage 
 
 ## Built With
 
+* JavaScript
 * Node.js
 
 ## Website 
